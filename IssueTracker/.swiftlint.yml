@@ -1,0 +1,5 @@
+# insert yaml contents here
+only_rules:
+
+excluded:
+  - Pods
